@@ -1,0 +1,22 @@
+.render {
+  position: inherit;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.welcome {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+.greeting {
+  margin-top: 100px;
+  text-align: center;
+  font-weight: lighter;
+  font-size: 2rem;
+  color: black;
+  text-transform: uppercase;
+}
